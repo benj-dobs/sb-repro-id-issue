@@ -6,7 +6,5 @@
     "skipLibCheck": true,
     "strict": true
   },
-  "include": [
-    "src/*"
-  ]
+  "include": ["stories/*"]
 }
